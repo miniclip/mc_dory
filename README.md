@@ -2,7 +2,7 @@
 
 A very simple API for transient (TTL bound) ETS data.
 
-All thanks go to g-andrade and his [backwater library](https://github.com/g-andrade/backwater/).
+All thanks go to [g-andrade](https://github.com/g-andrade) and his [backwater library](https://github.com/g-andrade/backwater/).
 This code is extracted from its backwater_cache module.
 
 #### Requirements
