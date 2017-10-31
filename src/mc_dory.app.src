@@ -1,0 +1,15 @@
+{application, mc_dory,
+ [{description, "An API for transient (TTL bound) ETS data"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["Fabio Souto <fabio.souto@miniclip.com>"]},
+  {licenses, ["MIT License"]},
+  {links, []}
+ ]}.
